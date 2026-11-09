@@ -1,0 +1,17 @@
+names:
+- Dead End
+- Forward Sign
+- No Entry
+- Proceed Left
+- Proceed Right
+- Stop Sign
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: street-signs-hw3a7
+  url: https://universe.roboflow.com/kiams-workspace/street-signs-hw3a7/dataset/2
+  version: 2
+  workspace: kiams-workspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images
